@@ -36,7 +36,10 @@ Stick insect (Sungaya inexpectata) experiments:
 - Rollout videos and tracking data (H5 format)
 
 ### `worm/`
-C. elegans worm behavior data (directory present for future additions)
+C. elegans worm locomotion experiments:
+- Motion sequence analysis notebook
+- Locomotion rollout data (H5 format)
+- Figure 4.08 visualization for C. elegans motion sequences
 
 ## File Types
 
